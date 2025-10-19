@@ -25,6 +25,7 @@ int main()
 ```
 ## OUTPUT:
 <img width="850" height="288" alt="Screenshot 2025-10-19 201433" src="https://github.com/user-attachments/assets/92963594-8d95-4ed9-884b-e17426d5d477" />
+
 ## RESULT:
 Thus the program to read a float value from the user and to display the same value has been executed successfully
 
